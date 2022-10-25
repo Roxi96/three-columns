@@ -1,0 +1,7 @@
+.mainContainer{
+  display: flex;
+  justify-content: center;
+}
+.testColor{
+  color: red;
+}
